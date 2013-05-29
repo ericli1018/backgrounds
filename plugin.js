@@ -35,7 +35,7 @@ CKEDITOR.plugins.add('backgrounds',
                     'table td th': {
                         propertiesOnly: true,
                         attributes: 'background',
-                        styles: 'background*'
+                        styles: 'background-repeat,background-position'
                     }
                 }
             });
